@@ -1,0 +1,6 @@
+digraph G {
+    "Miami" -> "New York City" [label="956"]
+    "Lisbon"  "Rome" [label="12"]
+    "Sydney" -> "Tokyo" [label = "4892"]y
+}
+
